@@ -1,0 +1,15 @@
+
+.main{
+    margin : 0 auto;
+    width: 500px;
+    border: 1pt solid red;
+}
+
+.middle{
+    margin: 0 auto;
+    width: 500px;
+}
+
+.title{
+    text-align: center;
+}
